@@ -9,3 +9,10 @@ sistema archivos, con el entorno
 * [ ] [npm-scripts](https://docs.npmjs.com/misc/scripts)
 * [ ] CLI (Command Line Interface - Interfaz de Línea de Comando)
 * [ ] [http.get](https://nodejs.org/api/http.html#http_http_get_options_callback)
+
+* [ ] [ggggg](https://desarrolloweb.com/articulos/buffer-en-nodejs.html),
+  [hhhhh](https://es.wikipedia.org/wiki/Truncamiento)
+* [ ] [packag](https://jarroba.com/busqueda-de-patrones-expresiones-regulares/)
+* [ ] jkgyjk [(JS)](https://franl2p.wordpress.com/2015/04/01/primeros-pasos-con-node-js-y-express/)
+* [ ] Instalar módulos ([npppm](https://gitlab.com/betsyvies/node-curso/blob/master/3-seccion/app.js))
+
