@@ -1,6 +1,7 @@
 {
   "name": "md-links",
   "version": "0.1.0",
+  "main": "lib/md-links.js",
   "scripts": {
     "pretest": "eslint .",
     "test": "jest --verbose --testPathIgnorePatterns",
