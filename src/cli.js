@@ -1,4 +1,4 @@
-const mdLinks = require('./mdLinks');
+const mdLinks = require('./md-links');
 const { noOptions, validate, stats, validateAndStats } = require('./options');
 
 const args = process.argv.slice(2);

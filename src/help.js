@@ -5,8 +5,6 @@ const https = require('https');
   Functions of help for mdLinks
 */
 
-//const getKey = (options) => Object.keys(options).length > 1 ? 'both' : Object.keys(options)[0];
-
 const isOption = (option) => option !== undefined && option.validate 
 
 const getLinks = (data) => data.toString().match(/\[\w.+/g);
