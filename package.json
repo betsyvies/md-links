@@ -7,8 +7,8 @@
     "test": "jest --verbose --testPathIgnorePatterns",
     "start": "node lib/index.js"
   },
-  "bin" : {
-    "md-links" : "./cli.js"
+  "bin": {
+    "md-links": "./cli.js"
   },
   "devDependencies": {
     "eslint": "^5.16.0",
