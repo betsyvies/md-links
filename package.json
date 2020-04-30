@@ -1,14 +1,14 @@
 {
   "name": "md-links",
   "version": "0.1.0",
-  "main": "lib/md-links.js",
+  "main": "lib/index.js",
   "scripts": {
     "pretest": "eslint .",
-    "test": "jest --verbose --testPathIgnorePatterns",
+    "test": "jest --verbose --coverage",
     "start": "node lib/index.js"
   },
   "bin": {
-    "md-links": "./cli.js"
+    "md-links": "lib/cli.js"
   },
   "devDependencies": {
     "eslint": "^5.16.0",
